@@ -1,3 +1,57 @@
+## Challenge (April 4 - May-4, 2020)
+
+Create a website inspired by: [this web theme](https://jumpstart.mediumra.re/index.html) (with all it’s pages and features)
+
+Note: this is a paid theme, send all “buy”, “purchase”, or “support” links to dead links or link to the home page.
+
+### The Challenge
+
+- Code as many pages as you can during the one month timeframe
+- Code as many features as you can during the one month timeframe
+- If you finish every page and every feature, find another theme and pose it as an ‘add-on’ challenge to the group
+
+### Options
+
+- Use any frameworks or libraries you want
+- You can use Angular / React / Vue / etc
+- If you’d rather make a mobile app, go for it, you do you
+- Use any web fonts or icons you want
+- Use Bootstrap or jQuery if you want
+- Skip any feature that “seems impossible”, you can always come back to it
+
+### For extra bragging rights
+
+- Limit the use of external convenance libraries
+- Use industry standards (git, lint, testing, deployment)
+- Ensure your site is mobile-responsive and passes the w3c checker
+- Live-stream one or more of your coding sessions
+- Pair program for some part of the development progress
+- Make yourself available to assist others with code reviews or quick peer sessions if anyone is stuck
+- Report your progress regularly in daily logs
+- Finish everything - with the smallest download/network bandwidth usage possible
+
+### Prefer Full Stack
+
+- Store the content in a database and create an API for an admin interface to update the content and for the frontend to query content to populate on the various pages.
+
+### Rules
+
+- Do not use text, fonts, icons, images, colors, code or ANY asset from the original theme. You can inspect the code, but don’t copy it.
+- This challenge is to create a web site “inspired by” this theme, NOT to make a direct clone, you may take extensive creative license to make it your own.
+- Success is measured on how much of the site you can replicate in 30 days, so carefully weigh taking the time to implement any one feature against how many easier features you could implement in the same time.
+- Publish your code in a git repository and make a working demo available
+- If you are stuck, ask for help. No one here is mean about learning, we’d rather help you than have you silent and miserable
+
+### “Win” conditions
+
+- if you learned a bunch, you’re a winner
+- most pages / features completed
+- smallest deploy package that delivers all pages and features
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
